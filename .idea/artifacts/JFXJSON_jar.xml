@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JFXJSON:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JFXJSON_jar</output-path>
+    <root id="archive" name="JFXJSON.jar">
+      <element id="module-output" name="JFXJSON" />
+    </root>
+  </artifact>
+</component>
